@@ -1,0 +1,3 @@
+## ARM Assembly
+This repository contains assembly program code for ARM processor more specifically, **ARMv7 microprocessor**.
+ARM Assembly Language is a low-level programming language specifically designed for ARM (Advanced RISC Machine) processors. ARM processors are widely used in embedded systems, mobile devices, microcontrollers, and increasingly in desktop and server environments. Understanding ARM assembly language is crucial for tasks that require direct control over hardware, optimization of critical code segments, or learning how computer systems execute instructions at a fundamental level.
