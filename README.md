@@ -34,10 +34,6 @@ _start:
     SWI 0             // Software interrupt to exit
 ```
 
-### Getting Started
-
-To get started with ARM assembly programming, you need an ARM-based environment or an ARM simulator/emulator like QEMU. You can write ARM assembly code in a text editor and assemble it using tools like `arm-none-eabi-as` and `arm-none-eabi-ld` to generate executable binaries.
-
 ### Resources
 
 - [Official ARM Developer Documentation](https://developer.arm.com/documentation/)
