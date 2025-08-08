@@ -28,5 +28,4 @@ loop:
 	LDR r2, =#0b00000000
 	STR r2, [r1]
 	ROR r2, #8
-	
 	b loop
